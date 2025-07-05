@@ -1,9 +1,9 @@
 # 🧠 Mental Health Chatbot  
-*A conversational AI that supports mental well-being through empathetic interaction.*
+A conversational AI that supports mental well-being through empathetic interaction.
 
 ## 📌 Overview  
 This project demonstrates how NLP-powered chatbots can support users experiencing emotional distress by offering relevant resources, encouraging reflection, and maintaining respectful dialogue.  
-Built using Python and key libraries like NLTK and Scikit-learn.
+Built using Python and key libraries.
 
 ## 🎯 Objectives  
 - Provide basic emotional support via conversational AI  
@@ -12,11 +12,8 @@ Built using Python and key libraries like NLTK and Scikit-learn.
 
 ## 🛠️ Technologies Used  
 - Python 3.x  
-- NLTK (Natural Language Toolkit)  
-- Scikit-learn  
-- Flask (optional, for web deployment)  
-- Regex + basic ML models
-
+- NLTK (Natural Language Toolkit)
+- 
 ## 📂 Folder Structure  
 
 ## 📈 Workflow  
@@ -27,7 +24,7 @@ Built using Python and key libraries like NLTK and Scikit-learn.
 
 ## 🖥️ Demo  
 ![Screenshot](images/demo-chatbot.png)  
-_This is a mock screenshot—you can add a real one from your chatbot UI or console._
+_Add a real one from your chatbot UI or console._
 
 ## 🌟 Key Features  
 - Rule-based emotional tone analyzer  
