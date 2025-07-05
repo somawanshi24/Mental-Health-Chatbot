@@ -22,9 +22,25 @@ Built using Python and key libraries.
 3. Intent recognition and response generation  
 4. Suggest resources based on emotional cues
 
-## 🖥️ Demo  
-![Screenshot](images/demo-chatbot.png)  
-_Add a real one from your chatbot UI or console._
+## 🖥️ Demo 
+
+![Output 1](images/Output%201.jpg)  
+_Example: Chatbot responding to a “happy” emotion._
+
+![Output 2](images/Output%202.jpg)  
+_Example: Chatbot offering support for a different emotional cue._
+
+## 💬 Sample Chat Flow  
+
+**User:** I'm feeling really low today.  
+**Bot:** I'm sorry you're feeling that way. You're not alone—would you like to talk about it or get some calming techniques?
+
+**User:** I'm actually in a good mood!  
+**Bot:** That's great to hear! Remember, even a small smile can spread positivity. 
+
+nltk==3.8.1  
+scikit-learn==1.3.2  
+flask==2.3.3
 
 ## 🌟 Key Features  
 - Rule-based emotional tone analyzer  
