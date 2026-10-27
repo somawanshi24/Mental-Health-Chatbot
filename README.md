@@ -1,8 +1,8 @@
 # 🧠 Mental Health Chatbot  
-A conversational AI that supports mental well-being through empathetic interaction.
+A conversational AI that supports mental well being through empathetic interaction.
 
 ## 📌 Overview  
-This project demonstrates how NLP-powered chatbots can support users experiencing emotional distress by offering relevant resources, encouraging reflection, and maintaining respectful dialogue.  
+This project demonstrates how NLP powered chatbots can support users experiencing emotional distress by offering relevant resources, encouraging reflection, and maintaining respectful dialogue.  
 Built using Python and key libraries.
 
 ## 🎯 Objectives  
@@ -18,19 +18,19 @@ Built using Python and key libraries.
 
 ## 📈 Workflow  
 1. Data preprocessing (tokenization, stop word removal)  
-2. Sentiment detection using rule-based or ML classifier  
+2. Sentiment detection using rule based or ML classifier  
 3. Intent recognition and response generation  
 4. Suggest resources based on emotional cues
 
 ## 🖥️ Demo 
 
-![Output 1](images/Output-1.jpg)  
+![Output 1](Output-1.jpg)  
 _Example: Chatbot responding to a “happy” emotion._
 
 ## 💬 Sample Chat Flow  
 
 **User:** I'm feeling really low today.  
-**Bot:** I'm sorry you're feeling that way. You're not alone—would you like to talk about it or get some calming techniques?
+**Bot:** I'm sorry you're feeling that way. You're not alone would you like to talk about it or get some calming techniques?
 
 **User:** I'm actually in a good mood!  
 **Bot:** That's great to hear! Remember, even a small smile can spread positivity. 
