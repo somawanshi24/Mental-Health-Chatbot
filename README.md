@@ -24,11 +24,8 @@ Built using Python and key libraries.
 
 ## 🖥️ Demo 
 
-![Output 1](images/Output%201.jpg)  
+![Output 1](images/Output-1.jpg)  
 _Example: Chatbot responding to a “happy” emotion._
-
-![Output 2](images/Output%202.jpg)  
-_Example: Chatbot offering support for a different emotional cue._
 
 ## 💬 Sample Chat Flow  
 
